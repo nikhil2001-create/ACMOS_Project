@@ -6,8 +6,8 @@ This repository contains detailed plots for PMOS and NMOS transistors, illustrat
 
 ## **Simulation Variables**
 
-- **Gate Voltage (Vg):** 0V to 1V (0.1V linear step)  
-- **Channel Length (l):** 45nm to 180nm (45nm linear step)  
+- **Gate Voltage (Vg):** 0V to 1V (0.01V linear step)  
+- **Channel Length (l):** 45nm to 540nm (45nm linear step)  
 
 ---
 
@@ -17,17 +17,19 @@ This repository contains detailed plots for PMOS and NMOS transistors, illustrat
 
 1. **gm * ro vs gm/Id:** 
  
-   ![n_gmro](https://github.com/user-attachments/assets/db330350-abba-45bc-aa75-2e520d2fd84c)  
+   ![n_gmro](https://github.com/user-attachments/assets/423c5b25-a60a-4cc6-8b93-fdc884708c2b)
+
 
 
 2. **ft vs gm/Id:**  
 
-   ![n_ft](https://github.com/user-attachments/assets/e43e031e-45ee-477a-84e4-94a7e457d62f)  
+   ![n_ft](https://github.com/user-attachments/assets/828b7f8c-3fb5-4ddb-a03e-7b07a6c6dc2f)
+
 
 
 3. **Id/w vs gm/Id:**  
 
-   ![n_Idw](https://github.com/user-attachments/assets/ece550d1-16b8-4ef4-a0cd-866e4868b106)  
+   ![n_idw](https://github.com/user-attachments/assets/429bb916-59e5-4bdf-96b4-976c5cec9725)
 
 
 ---
@@ -37,16 +39,20 @@ This repository contains detailed plots for PMOS and NMOS transistors, illustrat
 
 1. **gm * ro vs gm/Id:**  
 
-   ![p_gmro](https://github.com/user-attachments/assets/a9a7ec8b-cc10-4998-bf77-d4d58d37e198)  
+  ![p_gmro](https://github.com/user-attachments/assets/70b95369-6b02-41cf-a6ba-a97012d6b7e8)
 
-
+  
 2. **ft vs gm/Id:** 
  
-   ![p_ft](https://github.com/user-attachments/assets/7c0cadeb-ae37-46ae-9f04-d62cd10c41c6)  
+  ![p_ft](https://github.com/user-attachments/assets/7a4007ed-e9bf-4c5b-9c66-ce5aa103b27c)
+
 
 
 3. **Id/w vs gm/Id:**  
-   ![p_Idw](https://github.com/user-attachments/assets/b52a200a-2007-4844-8bec-110550202517)  
+
+  ![p_idw](https://github.com/user-attachments/assets/3278db93-adb9-4d25-b757-e0eb6f8fad2d)
+
+     
 
 
 ---
