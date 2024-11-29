@@ -39,12 +39,13 @@ This repository contains detailed plots for PMOS and NMOS transistors, illustrat
 
 1. **gm * ro vs gm/Id:**  
 
-  ![p_gmro](https://github.com/user-attachments/assets/70b95369-6b02-41cf-a6ba-a97012d6b7e8)
+  ![p_gmro](https://github.com/user-attachments/assets/dabe9cf4-39cb-4149-8d42-e01eb3460c0a)
+
 
   
 2. **ft vs gm/Id:** 
  
-  ![p_ft](https://github.com/user-attachments/assets/7a4007ed-e9bf-4c5b-9c66-ce5aa103b27c)
+  ![p_ft](https://github.com/user-attachments/assets/a616c5f5-5c1e-468d-a8f1-9a5bb463dfe8)
 
 
 
