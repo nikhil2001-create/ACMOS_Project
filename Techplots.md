@@ -2,6 +2,7 @@
 
 This repository contains detailed plots for PMOS and NMOS transistors, illustrating critical relationships under varying gate voltage (**Vg**) and channel length (**l**). These plots serve as a reference for transistor-level design and analysis.
 
+### Technology node: gpdk045 PDK
 ---
 
 ## **Simulation Variables**
