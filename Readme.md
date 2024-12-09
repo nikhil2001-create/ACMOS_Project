@@ -16,6 +16,15 @@ This repository contains detailed plots for PMOS and NMOS transistors, illustrat
 
 ---
 
+### Why Techplots Over the Square Law Model?
+
+The square law model is a simplified analytical approach for MOSFET behavior, assuming idealized conditions. While it is useful for quick hand calculations, it lacks accuracy under practical scenarios like short-channel effects, velocity saturation, and other second-order phenomena that dominate in modern submicron technologies.
+
+Techplots, derived from simulation data using technology files (e.g., GPDK180), provide a more realistic insight into MOSFET performance. They account for non-idealities and accurately model parameters such as \(g_m\), \(f_t\), and \(g_m \cdot r_o\) across different operating points. These plots allow designers to optimize circuits more effectively, ensuring performance aligns with real-world fabrication.
+
+In essence, techplots bridge the gap between theory and actual silicon behavior, making them indispensable for modern analog CMOS design.
+
+
 ## **Plots**
 
 ### **NMOS Plots**
