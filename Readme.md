@@ -4,8 +4,9 @@ This repository contains detailed plots for PMOS and NMOS transistors, illustrat
 
 ### Technology node: gpdk045 PDK
 
-## Link for the Project Report:
-https://github.com/nikhil2001-create/ACMOS_Project/blob/main/Acmos_report_final.pdf
+### Link for the Project Report:
+[ACMOS Project Report](https://github.com/nikhil2001-create/ACMOS_Project/blob/main/Acmos_report_final.pdf)
+
 ---
 
 ## **Simulation Variables**
