@@ -3,6 +3,9 @@
 This repository contains detailed plots for PMOS and NMOS transistors, illustrating critical relationships under varying gate voltage (**Vg**) and channel length (**l**). These plots serve as a reference for transistor-level design and analysis.
 
 ### Technology node: gpdk045 PDK
+
+## Link for the Project Report:
+https://github.com/nikhil2001-create/ACMOS_Project/blob/main/Acmos_report_final.pdf
 ---
 
 ## **Simulation Variables**
